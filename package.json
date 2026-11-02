@@ -1,0 +1,14 @@
+{
+  "name": "pluto-template",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "ajv": "8.20.0",
+    "vitest": "5.0.5",
+    "yaml": "2.9.1"
+  }
+}
